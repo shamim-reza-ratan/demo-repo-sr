@@ -2,8 +2,7 @@
 git clone
 
 git pull
-
+git checkout - b newbrach
 git push
 
-git checkout
 
