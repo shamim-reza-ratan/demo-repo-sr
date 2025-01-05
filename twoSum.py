@@ -9,7 +9,7 @@ def two_sum(input_list: List[int], target: int) -> List[int]:
     
     prev_map[val] = i
 
-arr = [2, 5, 7, 11, 9]
-target = 21
+arr = [2, 5, 7, 11, 9, 15]
+target = 26
 
 print(two_sum(arr, target))
